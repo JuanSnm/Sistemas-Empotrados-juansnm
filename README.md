@@ -30,7 +30,7 @@ En nuestra solución toda la temporización se gestiona con `millis()` lo que pe
 
 Debemos usar en la práctica todo el conocimiento adquirido en clase. En este caso, las técnicas de pseudo-concurrencia mediante hilos cooperativos. 
 
-En nuestra solución, hacemos uso de tres threads independientes que explicaremos más adelante. Pero con ellos podemos garantizar que de esta forma estamos separando comportamientos y evitando que el flujo principal se sobrecargue. Además, ThreadController coordina la ejecución sin bloquear.
+En nuestra solución, hacemos uso de tres threads independientes que explicaremos más adelante. Pero con ellos podemos garantizar que estamos separando comportamientos y evitando que el flujo principal se sobrecargue. Además, ThreadController coordina la ejecución sin bloquear.
      
   3. Interrupción hardware para el botón principal
 
