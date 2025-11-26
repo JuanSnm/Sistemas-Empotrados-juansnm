@@ -1,1 +1,1 @@
-# Sistemas-Empotrados-juansnm
+# Práctica3: Controlador Máquina Expendedora
